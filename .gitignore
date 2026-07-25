@@ -1,0 +1,5 @@
+key.json
+*.db
+__pycache__/
+*.pyc
+logs/
