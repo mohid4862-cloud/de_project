@@ -3,3 +3,7 @@ key.json
 __pycache__/
 *.pyc
 logs/
+
+currency_project/target/
+currency_project/logs/
+currency_project/dbt_packages/
